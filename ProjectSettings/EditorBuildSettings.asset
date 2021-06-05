@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Logo.unity
+    guid: 61bb88f6b4b0a4347831d3981dafed5e
+  - enabled: 1
+    path: Assets/Scenes/TitleScreen.unity
+    guid: 8f0f1f97ebda7e04bab9ee849ed5feef
+  - enabled: 1
+    path: Assets/Scenes/Intro-Movement.unity
+    guid: fe04ea2eff6f9024099ac9b1ab645359
+  - enabled: 1
+    path: Assets/Scenes/Grunt_Intro(MOVEMENT).unity
+    guid: eff4eef716fcd19468b49caa0a2e5d17
+  - enabled: 1
+    path: Assets/Scenes/Grunt_Intro(TAKEDOWN).unity
+    guid: 18dc1b813d8de2d43ab18a57cabfeaad
+  - enabled: 1
+    path: Assets/Scenes/Cover_Intro.unity
+    guid: 1fe06dc866319b64e80e37f5cabfe246
+  - enabled: 1
+    path: Assets/Scenes/Intro_Cameras_Level.unity
+    guid: 0a64fc9c0f7ffca4d887e9ef433afa9d
+  - enabled: 1
+    path: Assets/Scenes/IntroLevel - (EXPANDED).unity
+    guid: 3dbcd21f9b0086343922851a25785e3c
+  - enabled: 1
+    path: Assets/Scenes/Office.unity
+    guid: c0a6f2a6fa73df0419c3422885010264
+  - enabled: 1
+    path: Assets/Scenes/Elevator.unity
+    guid: 9a1b661bf8b8a484d8b6dc27dd55227e
+  m_configObjects: {}
